@@ -1,0 +1,8 @@
+function display2()
+{
+	var x=2;
+	for(i=0;i<5;i++)
+	{
+		console.log(i+x)
+	}
+};

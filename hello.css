@@ -1,0 +1,35 @@
+body
+{
+	margin:0px;
+}
+h1
+{
+	color:white;
+}
+.form
+{
+	background-color:lightblue;
+	height:100%;
+}
+button
+{
+	height:50px;
+	width:100px;
+	
+}
+.name
+{
+	background-color:red;
+	align:center;
+}
+#username
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+#password
+{
+	margin-bottom:10px;
+	
+}
